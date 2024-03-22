@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421" viewBox="0 0 2611 1611">
+  <g id="nt-logo" transform="matrix(.93317 0 0 1 0 -1312)">
+    <path d="M0 1312h2798v1611H0z" style="fill:none"/>
+    <g id="background">
+      <path d="m355 1523-204 204v732l204 216h1851l204-216v-732l-204-204H355Z" style="fill:#082338" transform="scale(1.07162 1)"/>
+      <path d="M2493.33 1692.48v799.65l-251.41 266.2H319.079l-251.412-266.2v-799.65l252.815-252.81H2240.52l252.81 252.81ZM355 1523l-204 204v732l204 216h1851l204-216v-732l-204-204H355Z" style="fill:#fff" transform="scale(1.07162 1)"/>
+    </g>
+    <g id="logo">
+      <path d="M1776 2170h27l322 322v25l-29 29h-320l-28-28v-322l28-26Z" style="fill:#fff" transform="scale(1.07162 1)"/>
+      <path d="M1776 2170h27l322 322v25l-29 29h-320l-28-28v-322l28-26Z" style="fill:#fff" transform="matrix(-1.07162 0 0 -1 2716.621 4204)"/>
+      <path d="M1479.62 1658h189v888h-189v-888ZM863 2546v-888h189l427.62 562v326L1052 1986v560H863Z" style="fill:#fff" transform="scale(1.07162 1)"/>
+    </g>
+  </g>
+</svg>
